@@ -1,0 +1,79 @@
+.navigation{
+    background-color:antiquewhite;
+    padding: 20px;
+    height: 30px;
+    text-align: right;
+}
+.navigation a{
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 0px;
+    text-align: center;  
+}
+
+.details
+{
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(197, 246, 246);
+    height: 400px;
+    width: 650px;
+}
+
+.details h2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+    top: 25%;
+}
+.details p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
+.details button{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+    top: 60%;
+}
+.photo
+{
+    padding: 10px;
+}
+.info
+{
+    background-image: url(http://wallpapercave.com/wp/xpbJv4U.jpg);
+    height: 400px;
+}
+
+.info h2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+    top: 25%;
+}
+.info p{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
+
+.resume
+{
+    background-color: #66ccff;
+    height: 200px;
+}
+.resume h4
+{
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
